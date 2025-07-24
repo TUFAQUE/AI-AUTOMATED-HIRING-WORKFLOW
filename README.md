@@ -80,6 +80,7 @@ Recruiting manually is tedious. This agent allows you to:
 
 **Tufaque Sayyed**  
 AI/ML Engineer | Data Scientist | Ai Agent Builder 
+
 🌐 [Portfolio](https://tufaquesayyed.vercel.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tufaque-sayyed-843596364/)
 
